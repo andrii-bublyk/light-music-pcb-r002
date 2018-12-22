@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for LightMusicProject_r002
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -123,98 +123,90 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LightMusicProject_r002\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for LightMusicProject_r002\PCB.1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GML
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for LightMusicProject_r002\PCB.TXT
 DItemRevisionGUID=
 
@@ -265,7 +257,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for LightMusicProject_r002
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1231,6 +1223,90 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=AX_Altium_v2.3.IntLib
+ComponentDesignItemID0=C0603
+ComponentSymbolReference0=C0603
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=AX_Altium_v2.3.IntLib
+ComponentDesignItemID1=C0805
+ComponentSymbolReference1=C0805
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=AX_Altium_v2.3.IntLib
+ComponentDesignItemID2=R0603
+ComponentSymbolReference2=R0603
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID3=DG-300-3
+ComponentSymbolReference3=DG-300-3
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID4=ICS-43432
+ComponentSymbolReference4=ICS-43432
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID5=Jack Female
+ComponentSymbolReference5=Jack Female
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID6=LED Blue
+ComponentSymbolReference6=LED Blue
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID7=LED Red
+ComponentSymbolReference7=LED Red
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID8=PLS-4
+ComponentSymbolReference8=PLS-4
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID9=Push Button
+ComponentSymbolReference9=Push Button
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID10=RT9193
+ComponentSymbolReference10=RT9193
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Light_Music_Integrated_Library.IntLib
+ComponentDesignItemID11=XTAL
+ComponentSymbolReference11=XTAL
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Miscellaneous Devices.IntLib
+ComponentDesignItemID12=Diode
+ComponentSymbolReference12=Diode
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=STMicroelectronics STM32 F1.IntLib
+ComponentDesignItemID13=STM32F105R8T6
+ComponentSymbolReference13=STM32F105R8T6
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1244,6 +1320,151 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=A/D Converter
+ParameterUpdate0=1
+ParameterName1=Code_JEDEC
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=ComponentLink1Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink1URL
+ParameterUpdate5=1
+ParameterName6=ComponentLink2Description
+ParameterUpdate6=1
+ParameterName7=ComponentLink2URL
+ParameterUpdate7=1
+ParameterName8=ComponentLink3Description
+ParameterUpdate8=1
+ParameterName9=ComponentLink3URL
+ParameterUpdate9=1
+ParameterName10=Core
+ParameterUpdate10=1
+ParameterName11=D/A Converter
+ParameterUpdate11=1
+ParameterName12=DatasheetVersion
+ParameterUpdate12=1
+ParameterName13=Description
+ParameterUpdate13=1
+ParameterName14=FLASH Size (Prog) (kB)
+ParameterUpdate14=1
+ParameterName15=I/Os (High Current)
+ParameterUpdate15=1
+ParameterName16=Internal RAM Size (kB)
+ParameterUpdate16=1
+ParameterName17=LatestRevisionDate
+ParameterUpdate17=1
+ParameterName18=LatestRevisionNote
+ParameterUpdate18=1
+ParameterName19=Library Reference
+ParameterUpdate19=1
+ParameterName20=Mounting Technology
+ParameterUpdate20=1
+ParameterName21=Operating Frequency(F) (Processor speed) (MHz)
+ParameterUpdate21=1
+ParameterName22=PackageDescription
+ParameterUpdate22=1
+ParameterName23=PackageReference
+ParameterUpdate23=1
+ParameterName24=PackageVersion
+ParameterUpdate24=1
+ParameterName25=Packing
+ParameterUpdate25=1
+ParameterName26=PartNumber
+ParameterUpdate26=1
+ParameterName27=Published
+ParameterUpdate27=1
+ParameterName28=Publisher
+ParameterUpdate28=1
+ParameterName29=Supplier 1
+ParameterUpdate29=1
+ParameterName30=Supplier 2
+ParameterUpdate30=1
+ParameterName31=Supplier 3
+ParameterUpdate31=1
+ParameterName32=Supplier 4
+ParameterUpdate32=1
+ParameterName33=Supplier 5
+ParameterUpdate33=1
+ParameterName34=Supplier Part Number 1
+ParameterUpdate34=1
+ParameterName35=Supplier Part Number 2
+ParameterUpdate35=1
+ParameterName36=Supplier Part Number 3
+ParameterUpdate36=1
+ParameterName37=Supplier Part Number 4
+ParameterUpdate37=1
+ParameterName38=Supplier Part Number 5
+ParameterUpdate38=1
+ParameterName39=Supply Voltage(Vcc) min (V)
+ParameterUpdate39=1
+ParameterName40=Value
+ParameterUpdate40=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=C_0603
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=C_0805
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=DC-140
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=DG-300-5MM-3
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=HC-49
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=ICS-43432
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=LED 0603 BLUE
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=LED 0603 RED
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=PLS-4
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=PUSH BUTTON
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=R_0603
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=SMC
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SOT23
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=STM-LQFP64_L
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=STM-LQFP64_M
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=STM-LQFP64_N
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=STM-LQFP64_V
+ModelUpdate16=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType17=SI
+ModelName17=Diode
+ModelUpdate17=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType18=SIM
+ModelName18=DIODE
+ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
